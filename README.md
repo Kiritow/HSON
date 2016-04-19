@@ -21,3 +21,7 @@ HSON由**HC TECH**开发.
 **数据** `Lable=Value`  
 **数据分隔符** `:`  
 **命令分隔符** `;`  
+
+示例  
+`#ShowDate:Year=2016:Month=4:Day=19;`  
+`#ShowTime:Hour=14:Min=43:Sec=5;#TakeLog:fileaddr=/tmp/date.txt;`  
