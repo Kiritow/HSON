@@ -1,6 +1,11 @@
 /** HC Script Object Notation (HSON)
 *   Developed by HC TECH.
 */
+
+/** HSON On GitHub
+*   https://github.com/Kiritow/HSON
+*/
+
 #ifndef HC_TECH_GITHUB_PROJECT_HSON_CONFIG_HPP
 #define HC_TECH_GITHUB_PROJECT_HSON_CONFIG_HPP
 
@@ -19,7 +24,5 @@ struct pack
 ///Declaration.
 vector<pack> getpacksfromstring(const string& str);
 }/// End of namespace hson.
-
-#include "hson.cpp"
 
 #endif /// End of HC_TECH_GITHUB_PROJECT_HSON_CONFIG_HPP
