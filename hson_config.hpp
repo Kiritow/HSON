@@ -20,6 +20,4 @@ struct pack
 vector<pack> getpacksfromstring(const string& str);
 }/// End of namespace hson.
 
-#include "hson.cpp"
-
 #endif /// End of HC_TECH_GITHUB_PROJECT_HSON_CONFIG_HPP
