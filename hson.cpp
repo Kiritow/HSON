@@ -2,6 +2,11 @@
 *   Developed by HC TECH.
 */
 
+/** HSON On GitHub
+*   https://github.com/Kiritow/HSON
+*/
+
+
 #ifndef HC_TECH_GITHUB_PROJECT_HSON_CPP
 #define HC_TECH_GITHUB_PROJECT_HSON_CPP
 
