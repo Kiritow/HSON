@@ -10,8 +10,6 @@
 #include <vector>
 using namespace std;
 
-#include "main.cpp"
-
 namespace hson
 {
 vector<pack> getpacksfromstring(const string& str)
