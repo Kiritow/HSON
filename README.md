@@ -1,4 +1,4 @@
-[English](#HSON) | [中文(简体)](#HSON-1)  
+[English](#hson) | [中文(简体)](#hson-1)  
 
 # HSON
 **HSON** represents **HC Script Object Notation**.  
