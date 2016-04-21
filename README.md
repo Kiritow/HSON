@@ -1,3 +1,5 @@
+[English](#HSON) | [中文(简体)](#HSON-1)  
+
 # HSON
 **HSON** represents **HC Script Object Notation**.  
 HSON is developed by **HC TECH**.  
